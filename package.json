@@ -6,6 +6,9 @@
 	"module": "./lib/index.js",
 	"types": "./lib/index.d.ts",
 	"sideEffects": false,
+	"publishConfig": {
+		"access": "public"
+	},
 	"scripts": {
 		"test": "jest",
 		"build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && npm run minify",
