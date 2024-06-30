@@ -1,0 +1,100 @@
+[
+   {
+      "name": "Kabupaten Bengkayang",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "1.06911",
+      "longitude": "109.66393"
+   },
+   {
+      "name": "Kabupaten Kapuas Hulu",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "0.81667",
+      "longitude": "112.76667"
+   },
+   {
+      "name": "Kabupaten Kayong Utara",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "-1.43711",
+      "longitude": "110.79781"
+   },
+   {
+      "name": "Kabupaten Ketapang",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "-1.58333",
+      "longitude": "110.5"
+   },
+   {
+      "name": "Kabupaten Kubu Raya",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "0.01637",
+      "longitude": "109.33731"
+   },
+   {
+      "name": "Kabupaten Landak",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "0.42373",
+      "longitude": "109.75917"
+   },
+   {
+      "name": "Kabupaten Melawi",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "-0.3361",
+      "longitude": "111.6981"
+   },
+   {
+      "name": "Kabupaten Mempawah",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "0.25",
+      "longitude": "109.16667"
+   },
+   {
+      "name": "Kabupaten Sambas",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "1.41667",
+      "longitude": "109.33333"
+   },
+   {
+      "name": "Kabupaten Sanggau",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "0.1",
+      "longitude": "110.6"
+   },
+   {
+      "name": "Kabupaten Sekadau",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "0.03485",
+      "longitude": "110.95066"
+   },
+   {
+      "name": "Kabupaten Sintang",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "0.0681",
+      "longitude": "111.4981"
+   },
+   {
+      "name": "Kota Pontianak",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "-0.0206",
+      "longitude": "109.3414"
+   },
+   {
+      "name": "Kota Singkawang",
+      "countryCode": "ID",
+      "stateCode": "",
+      "latitude": "0.9",
+      "longitude": "108.9833"
+   }
+]
